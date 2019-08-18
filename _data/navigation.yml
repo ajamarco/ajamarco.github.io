@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Data Wrangling Projects"
     url: /data-wrangling/
+  - title: "Data Cleaning Projects"
+    url: /data-cleaning/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
